@@ -1,0 +1,34 @@
+# Editors
+*~
+\#*#
+.#*
+.*.swp
+.project
+*.orig
+## Visual Studio Code
+*.vscode/
+
+# Install & usage
+## Python
+**/__pycache__
+*.egg-info/
+build/lib/
+vendor/
+## Linux
+flakLog.out
+nohup.out
+pointLog.out
+## Configuration files
+
+# Testing
+
+# Operating systems
+## Mac OS X
+.DS_Store
+## Windows
+Thumbs.db
+
+# Misc
+
+# Docker
+docker-compose.override.yml
