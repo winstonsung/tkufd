@@ -33,6 +33,29 @@ risk!
 
 * …
 
+### External library changes
+
+#### New external libraries
+
+* …
+
+##### New development-only external libraries
+
+* …
+
+#### Changed external libraries
+
+* …
+
+##### Changed development-only external libraries
+
+* Updated squizlabs/php_codesniffer from 3.9.0 to 3.10.3.
+* …
+
+#### Removed external libraries
+
+* …
+
 ### Bug fixes
 
 * …
@@ -78,6 +101,8 @@ Below only new and removed languages are listed.
   * Added GitHub issue templates.
   * Added GitHub Actions workflow "Merge" (`merge.yml`) for pull request
     reviews.
+* Added `abstract_schema_table.json` as the abstract schema for database layout
+  JSON file.
 * …
 
 ## TKUFD 0.1.0
