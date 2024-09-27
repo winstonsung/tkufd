@@ -106,6 +106,7 @@ Below only new and removed languages are listed.
 * Fixed missing table column `bd_bank_id` in `bank_data`.
 * Added SQL CREATE command.
 * Added CREATE DATABASE command.
+* Added `DEFAULT CHARACTER SET` and `DEFAULT COLLATE`.
 * …
 
 ## TKUFD 0.1.0
