@@ -104,7 +104,8 @@ Below only new and removed languages are listed.
 * Added `abstract_schema_table.json` as the abstract schema for database layout
   JSON file.
 * Fixed missing table column `bd_bank_id` in `bank_data`.
-* Added SQL CREATE syntax.
+* Added SQL CREATE command.
+* Added CREATE DATABASE command.
 * …
 
 ## TKUFD 0.1.0
