@@ -107,6 +107,7 @@ Below only new and removed languages are listed.
 * Added SQL CREATE command.
 * Added CREATE DATABASE command.
 * Added `DEFAULT CHARACTER SET` and `DEFAULT COLLATE`.
+* Added `AUTO_INCREMENT` to primary keys.
 * …
 
 ## TKUFD 0.1.0
